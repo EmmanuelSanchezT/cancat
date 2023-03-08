@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(./images/fondo1.jpg);
+    background-size: cover;
+    height: auto;
+}
+
+.nav-link{
+    color: rgb(31, 232, 31);
+    font-size: 33pt;
+}
+.nav-item{
+    font-family: 'Holyfat';
+}
+
+.menu{
+    background-color: white;
+    border-radius: 0.3rem;
+}
+a:hover{
+    background-color: rgb(31, 232, 31);
+    border-radius: 0.3rem;
+    color: white !important;
+}
